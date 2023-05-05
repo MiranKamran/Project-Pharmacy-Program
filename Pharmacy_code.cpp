@@ -88,6 +88,10 @@ void account_registration()
     cin>>pn;
     c.account_reg(na,ag,address,pn);
 }
+void buy_medicine()
+{
+  
+}
 
 int main()
 {
