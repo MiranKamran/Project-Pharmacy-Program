@@ -77,10 +77,10 @@ void account_registration()
     int ag;
     int pn;
     string address;
-    cout<<"Please register your account to proceed\n";
-    cout<<"Name:";
+    cout<<"Please register your account and you may proceed"<<endl;
+    cout<<" Please enter your Name:"<<endl;
     cin>>na;
-    cout<<"\nEnter Age:";
+    cout<<endl<<"Enter Age:";
     cin>>ag;
     cout<<"\nEnter Address:";
     cin>>address;
