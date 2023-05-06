@@ -1,108 +1,108 @@
-Dalacin-C 150mg
-Dalacin-C 300mg
-Dalacin-T Lotion
-Depo-Medrol
-Detrusitol 2mg
-Diflucan 150mg
-Norvasc 10mg
-Lincocin Injection
-Lipitor 10mg
-Lyrica 150mg
-Xalacom Drops
-Xalatan 
-Zetamax 250mg Capsules
-Zoloft 50mg Tablets
-Ponstan 250mg
-Entox-P
-Mycitracin Plus 14g
-Arthrotec 50mg
-Basoquin 150mg
-Cardura 2mg
-Dilzem 60mg
-Efexor XR 75mg
-Fasigyn 500mg
-Feldene 20mg
-Feldene Topical
-Deltacortril
-Minidiab
-Mtrin-P Forte
-Nilstat Drops
-Lederrif 450mg
-Lipitor 40mg
-Lysovit Syrup
-Tri-Hemic 600
-Vibramycin 100mg
-Ponstan Forte 500mg
-Arinac Syrup
-Arinac Tablet 200mg
-Arinac Forte 400mg
-Artifen 50mg
-Becefol 
-Bevidox
-Bremax 1mg
-Bremax 2mg
-Brufen Syrup
-Brufen Cream 30g
-Brufen DS Syrup 
-Cecon 500mg
-Cofcol Elixir Syrup
-Cremaffin Syrup
-Deslavid 5mg
-Dijex Mp Syrup
-Duphalac Syrup
-Duphaston 10mg
-Entamizole Syrup
-Epival 500mg
-Erythrocin 200mg Syrup
-Erythrocin 250mg Tablet
-Ezomol 20mg
-Ezomol 40mg
-Flexin 250mg
-Flexin 500mg
-Floaid 10mg
-Froben 100mg
-Froben 50mg
-Ganaton 50mg
-Ganaton OD 150mg
-Hidrasec 10mg
-Hidrasec 30mg
-Hidrasec 100mg
-Hytrin 2mg
-Iberet-500 Syrup
-Moksi 400mg
-Mucolator 200mg
-Klaricid Syrup
-Klaricid Tablet
-Klaricid Capsule
-Rashnil 
-Rondec-C Syrup
-Serc 16mg
-Serc 24mg
-Silliver 200mg	
-Similac Total Comfort Kid
-Similac-1 Infant Formula P
-Similac-2 Infant Formula P
-Somogel 20g
-Surbex Syrup
-Surbex-T
-Vidaylin Syrup
-Surbex-Z
-Abiclot 75mg
-CitroSoda
-Dayalets
-Defal
-Enoxabid 400mg Tablets
-Entamizole DS
-Epival Syrup
-Epival Tablet
-Epival Injection
-Erybron
-Femoston
-Iberet Folic-500
-Neophage 500mg
-Thyronorm 100mcg
-Tronolane 20g
-Vancomycin
-Optilets-M
-Prothiden 75mg
-Protium 40mg
+1:Dalacin-C-150mg
+2:Dalacin-C-300mg
+3:Dalacin-T-Lotion
+4:Depo-Medrol
+5:Detrusitol-2mg
+6:Diflucan-150mg
+7:Norvasc-10mg
+8:Lincocin-Injection
+9:Lipitor-10mg
+10:Lyrica-150mg
+11:Xalacom-Drops
+12:Xalatan
+13:Zetamax-250mg-Capsules
+14:Zoloft-50mg-Tablets
+15:Ponstan-250mg
+16:Entox-P
+17:Mycitracin-Plus-14g
+18:Arthrotec-50mg
+19:Basoquin-150mg
+20:Cardura-2mg
+21:Dilzem-60mg
+22:Efexor-XR-75mg
+23:Fasigyn-500mg
+24:Feldene-20mg
+25:Feldene-Topical
+26:Deltacortril
+27:Minidiab
+28:Mtrin-P-Forte
+29:Nilstat-Drops
+30:Lederrif-450mg
+31:Lipitor-40mg
+32:Lysovit-Syrup
+33:Tri-Hemic-600
+34:Vibramycin-100mg
+35:Ponstan-Forte-500mg
+36:Arinac-Syrup
+37:Arinac-Tablet200mg
+38:Arinac-Forte-400mg
+39:Artifen-50mg
+40:Becefol
+41:Bevidox
+42:Bremax-1mg
+43:Bremax-2mg
+44:Brufen-Syrup
+45:Brufen-Cream-30g
+46:Brufen-DS-Syrup
+47:Cecon-500mg
+48:Cofcol-Elixir-Syrup
+49:Cremaffin-Syrup
+50:Deslavid-5mg
+51:Dijex-Mp-Syrup
+52:Duphalac-Syrup
+53:Duphaston-10mg
+54:Entamizole-Syrup
+55:Epival-500mg
+56:Erythrocin-200mg-Syrup
+57:Erythrocin-250mg-Tablet
+58:Ezomol-20mg
+59:Ezomol-40mg
+60:Flexin-250mg
+61:Flexin-500mg
+62:Floaid-10mg
+63:Froben-100mg
+64:Froben-50mg
+65:Ganaton-50mg
+66:Ganaton-OD-150mg
+67:Hidrasec-10mg
+68:Hidrasec-30mg
+69:Hidrasec-100mg
+70:Hytrin-2mg
+71:Iberet-500-Syrup
+72:Moksi-400mg
+73:Mucolator-200mg
+74:Klaricid-Syrup
+75:Klaricid-Tablet
+76:Klaricid-Capsule
+77:Rashnil
+78:Rondec-C-Syrup
+79:Serc-16mg
+80:Serc-24mg
+81:Silliver-200mg
+82:Similac-Total-Comfort-Kid
+83:Similac-1-Infant-Formula-P
+84:Similac-2-Infant-Formula-P
+85:Somogel-20g
+86:Surbex-Syrup
+87:Surbex-T
+88:Vidaylin-Syrup
+89:Surbex-Z
+90:Abiclot-75mg
+91:CitroSoda
+92:Dayalets
+93:Defal
+94:Enoxabid-400mg-Tablets
+95:Entamizole-DS
+96:Epival-Syrup
+97:Epival-Tablet
+98:Epival-Injection
+99:Erybron
+100:Femoston
+101:Iberet-Folic-500
+102:Neophage-500mg
+103:Thyronorm-100mcg
+104:Tronolane-20g
+105:Vancomycin
+106:Optilets-M
+107:Prothiden-75mg
+108:Protium-40mg

@@ -12,11 +12,11 @@ int main()
      int serial;
     ifstream in("medicine_record.txt");
     //in>>h;
-    for(int i=0;i<110;i++)
+    for(int i=1;i<=110;i++)
     {
        in>>record[i];
     }
-    for(int j=0;j<110;j++)
+    for(int j=1;j<=110;j++)
     {
        cout<<"\n"<<record[j];
     }
