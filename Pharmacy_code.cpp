@@ -11,9 +11,9 @@ int p_no;
 public:
 void account_reg(string n, int a, string ad,int p )
 {
-    name='n';
+    name="n";
     age=a;
-    add='ad';
+    add="ad";
     p_no=p;
 }
 friend void account_registration();
@@ -95,11 +95,12 @@ void buy_medicine()
 
 int main()
 {
-    int status;
-    bool opt;
+    
+    bool opt=true;
     while(opt==true)
     {
-    cout<<"Welcome!!\n";
+    int status;
+    cout<<"\nWelcome!!\n";
     cout<<"PLease enter your status: \n1) Customer\n2) Pharmacist\n3) Exit Program";
     cin>>status;
     if(status==1)

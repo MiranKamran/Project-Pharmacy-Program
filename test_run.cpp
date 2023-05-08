@@ -9,9 +9,10 @@ int main()
     {
     cout<<"Please enter medicine name to add medicine:";
     cin>>medicine_name[i];
-    ofstream out("medicine_record.txt");
+    ofstream out("medicine_record.txt", ios::app);
     out<<medicine_name[i];
-    cout<<"Do you want to continue adding new medicine: \n1) Yes\n 2) No\n";
+    out<<"\n";
+    cout<<"Do you want to continue adding new medicine: \n1) Yes\n2) No\n";
     cin>>ans;
     if(ans==1)
     {
