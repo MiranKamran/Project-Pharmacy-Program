@@ -99,12 +99,8 @@ int main()
     bool opt=true;
     while(opt==true)
     {
-<<<<<<< HEAD
     int status;
     cout<<"\nWelcome!!\n";
-=======
-    cout<<"Welcome!!"<<endl;
->>>>>>> f1ed9ae3c3c8c09c13ec03e03bffc9913d72153b
     cout<<"PLease enter your status: \n1) Customer\n2) Pharmacist\n3) Exit Program";
     cin>>status;
     if(status==1)
