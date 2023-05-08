@@ -51,20 +51,20 @@ void seller_authentication()
 {
 string s_n;
 int s_id;
-  cout<<"\nPlease enter your credentials:";
-  cout<<"\nEnter your name:";
+  cout<<endl<<"Please enter your credentials:";
+  cout<<endl<<"Enter your name:";
   cin>>s_n;
-  cout<<"\nEnter your ID no:";
+  cout<<endl<<"Enter your ID no:";
   cin>>s_id;
   seller sd;
   if((s_n == sd.name) && (s_id == sd.id_no))
   {
-    cout<<"\nLogin Successfull!";
+    cout<<endl<<"Login Successful!";
 
   }
   else
   {
-    cout<<"Incorrect Credentials!\n Program Terminated!";
+    cout<<"Incorrect Credentials!"<<endl<<" Program Terminated!";
   }
 
 }
@@ -78,11 +78,11 @@ void account_registration()
     int pn;
     string address;
     cout<<"Please register your account and you may proceed"<<endl;
-    cout<<" Please enter your Name:"<<endl;
+    cout<<" Please enter your Name: "<<endl;
     cin>>na;
-    cout<<endl<<"Enter Age:";
+    cout<<endl<<"Enter Age: ";
     cin>>ag;
-    cout<<"\nEnter Address:";
+    cout<<"\nEnter Address: ";
     cin>>address;
     cout<<"\nEnter your Phone no:";
     cin>>pn;
@@ -99,8 +99,12 @@ int main()
     bool opt=true;
     while(opt==true)
     {
+<<<<<<< HEAD
     int status;
     cout<<"\nWelcome!!\n";
+=======
+    cout<<"Welcome!!"<<endl;
+>>>>>>> f1ed9ae3c3c8c09c13ec03e03bffc9913d72153b
     cout<<"PLease enter your status: \n1) Customer\n2) Pharmacist\n3) Exit Program";
     cin>>status;
     if(status==1)
