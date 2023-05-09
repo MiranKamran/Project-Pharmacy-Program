@@ -2,6 +2,7 @@
 #include<fstream>
 using namespace std;
 int main()
+
 {
   bool cont=true;
   while (cont==true)
